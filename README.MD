@@ -149,5 +149,6 @@ Este repositorio es un espacio de aprendizaje colectivo. Se espera que:
 Asignatura: IEI-054 Programación Web | III Semestre
 
 ---
+No olvides dejar tu ⭐ en el repositorio si te ha sido útil para tus estudios!
 
 *Última actualización: 2026*
